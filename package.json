@@ -1,0 +1,14 @@
+{
+  "name": "datastructures_algorithms",
+  "version": "0.1.0",
+  "description": "datastructures algorithms",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
